@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootTabBarController.h
 //  ZhaoPai
 //
 //  Created by Mr_Tang on 16/1/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootTabBarController : UITabBarController
 
 @end
-

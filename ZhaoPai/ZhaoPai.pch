@@ -1,0 +1,43 @@
+//
+//  ZhaoPai.pch
+//  ZhaoPai
+//
+//  Created by Mr_Tang on 16/1/18.
+//  Copyright © 2016年 Mr_Tang. All rights reserved.
+//
+
+#ifndef ZhaoPai_pch
+#define ZhaoPai_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "UIViewExt.h"
+#import "AppDelegate.h"
+#import "AFNetworking.h"
+#import "UserInfo.h"
+// 为视图控制扩展导航按钮的类目
+#import "UIViewController+BaseNavigationItemButton.h"
+#import "UIView+ViewController.h"
+
+#define kMY_uniqueIdentifiert @"Id"
+#define kMY_userName @"UserName"//账户key宏定义
+#define kMY_password @"Password"//密码key宏定义
+#define kMY_UserSettingsId @"UserSettingsId"//用户自由id
+#define kMY_UserSettings @"UserSettings"//用户详细key宏定义
+
+
+//状态栏高度
+#define STATUS_BAR_HEIGHT 20
+//NavBar高度
+#define NAVIGATION_BAR_HEIGHT 44
+//状态栏 ＋ 导航栏 高度
+#define STATUS_AND_NAVIGATION_HEIGHT ((STATUS_BAR_HEIGHT) + (NAVIGATION_BAR_HEIGHT))
+//屏幕 rect
+#define kScreenRect ([UIScreen mainScreen].bounds)
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+
+
+#endif /* ZhaoPai_pch */

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UUID</key>
+	<string>0ADFEBBE-B721-4C87-AE6F-D645F7EF3C66</string>
+	<key>connectType</key>
+	<string>(null)</string>
+	<key>height</key>
+	<string>2048.000000</string>
+	<key>localizedModel</key>
+	<string>iPad</string>
+	<key>mac</key>
+	<string>02:00:00:00:00:00</string>
+	<key>model</key>
+	<string>iPad</string>
+	<key>name</key>
+	<string>“Mr_Tang”的 iPad</string>
+	<key>operator</key>
+	<string>(null)</string>
+	<key>systemName</key>
+	<string>iPhone OS</string>
+	<key>systemVersion</key>
+	<string>9.2</string>
+	<key>width</key>
+	<string>1536.000000</string>
+</dict>
+</plist>
